@@ -107,4 +107,4 @@ if (AutumnT1status == true) {
 	$('#collapse6').collapse('hide');
 	}
 
-	// I have kept the code very simple and haven't optimised much because I wanted it to be easily understood by non-programmers
+	// I have kept the code very simple so my non-programmer collegues can follow it and edit it.
